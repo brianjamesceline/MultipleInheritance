@@ -10,5 +10,5 @@ resident.title()
 
 # mro is method resolution order and this tells you the order of things getting called
 # print(Resident.__mro__)
-# This can also be caled directly
+# This can also be called directly
 print(Resident.mro())
